@@ -1,0 +1,6 @@
+.idea/
+.env
+
+# db
+db.sqlite3
+sns_app/migrations/
