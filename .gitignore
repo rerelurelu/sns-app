@@ -4,3 +4,6 @@
 # db
 db.sqlite3
 sns_app/migrations/
+
+# media
+media/
